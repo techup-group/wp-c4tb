@@ -7,10 +7,13 @@
  * Author URI:      https://miklb.com
  * Text Domain:     wp-c4tb
  * Domain Path:     /languages
- * Version:         0.1.0
+ * Version:         0.2.0
  *
  * @package         Wp_C4tb
  */
 
 // Load the project custom post type.
 require_once( 'post-types/project.php' );
+
+// Load the project metaboxes.
+require_once( 'metaboxes/project.php' );

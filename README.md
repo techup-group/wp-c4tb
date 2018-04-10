@@ -40,5 +40,5 @@ General instructions on _how_ to contribute should be stated with a link to [CON
 
 ## Credits and references
 
-1. [CMB2](https://github.com/cmb2/cmb2)
+1. [CMB2](https://github.com/CMB2/CMB2)
  
